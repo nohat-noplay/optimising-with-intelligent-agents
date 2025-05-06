@@ -4,7 +4,7 @@ Year: 2025
 A collection of nature-inspired optimisation algorithms, exploring how intelligent agent behaviours can be used to solve complex problems through swarm intelligence and evolutionary processes.
 
 ## Important Notes for the User:
-This repository is currently private pending permission from project collaborators.
+_This repository is currently private pending permission from project collaborators._
 
 ## Project Overview
 This project implements a suite of metaheuristic algorithms, focusing on evolutionary and swarm-based techniques such as:
@@ -17,14 +17,7 @@ This project implements a suite of metaheuristic algorithms, focusing on evoluti
 
 These algorithms are widely used to solve complex optimisation problems where traditional deterministic methods are inefficient or infeasible.
 
-The project was developed as part of a group project. The code is currently private while permissions from collaborators are being finalised.
-
-## Key Technical Highlights
-Implementation of population-based search methods using intelligent agents
-
-Modular design allowing easy extension and benchmarking
-
-Visualisation of algorithm performance over iterations
+_The project was developed as part of a group project. The code is currently private while permissions from collaborators are being finalised._
 
 ## Features
 **Genetic Algorithm (GA)**: Mimics natural selection through crossover, mutation, and selection.
