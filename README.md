@@ -1,4 +1,4 @@
-# Optimising with Intelligent Agents 🤖
+# Optimising with Intelligent Agents 🤖🐝🐜
 Year: 2025
 
 A collection of nature-inspired optimisation algorithms, exploring how intelligent agent behaviours can be used to solve complex problems through swarm intelligence and evolutionary processes.
@@ -27,11 +27,11 @@ Modular design allowing easy extension and benchmarking
 Visualisation of algorithm performance over iterations
 
 ## Features
-Genetic Algorithm (GA): Mimics natural selection through crossover, mutation, and selection.
+**Genetic Algorithm (GA)**: Mimics natural selection through crossover, mutation, and selection.
 
-Particle Swarm Optimisation (PSO): Simulates a group of particles (agents) exploring the search space using personal and collective experience.
+**Particle Swarm Optimisation (PSO)**: Simulates a group of particles (agents) exploring the search space using personal and collective experience.
 
-Ant Colony Optimisation (ACO): Inspired by how ants use pheromone trails to find optimal paths.
+**Ant Colony Optimisation (ACO)**: Inspired by how ants use pheromone trails to find optimal paths.
 
 
 
